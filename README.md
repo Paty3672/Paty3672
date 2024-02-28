@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on improving my GitHub account and increasing my portfolio  
 🌱 I’m currently learning data analytics with Triple Ten Bootcamp  
-🤔 I’m looking for help with reviewing my project and learning how I can improve my outputs  
+🤔 I’m looking for help with reviewing my projects and learning how I can improve my outputs  
 👯 I’m looking to collaborate on any environmental or medical analysis, and it can be just for fun  
 
