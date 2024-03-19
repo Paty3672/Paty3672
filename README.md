@@ -9,7 +9,6 @@
 
 - 🤔 I’m looking for help with reviewing my repositories and learning how I can improve my outputs   
 
-<br/>  
 
 ## My Skill Set  
 
@@ -20,7 +19,6 @@
 </div>
 
 <br/>  
-
 
 ## Connect with me  
 <div align="left">
@@ -33,7 +31,6 @@
 </div>  
 
 <br/>  
-
 
 ## Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Paty3672&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
