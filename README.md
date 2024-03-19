@@ -1,21 +1,39 @@
-### Hi there 👋 Welcome!
+### <div align="left">I'm Patrícia, a full-time data analytic student 👨‍💻 working on improving my skills and eager to start a new career 🚀</div>  
+  
 
-<!--
-**Paty3672/Paty3672** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on improving my GitHub account and increasing my portfolio    
+  
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning R, Python and SQL  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🔭 I’m currently working on improving my GitHub account and increasing my portfolio  
-🌱 I’m currently learning data analytics with Triple Ten Bootcamp  
-🤔 I’m looking for help with reviewing my repositories and learning how I can improve my outputs  
-👯 I’m looking to collaborate on any environmental or medical analysis, and it can be just for fun  
+- 🤔 I’m looking for help with reviewing my repositories and learning how I can improve my outputs   
 
+<br/>  
+
+## My Skill Set  
+
+<div align="left">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /></a>  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="35" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="35" /></a>  
+</div>
+
+<br/>  
+
+
+## Connect with me  
+<div align="left">
+<a href="https://linkedin.com/in/patriciamgc" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/patriciamgcosta" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+<br/>  
+
+
+## Github Stats  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Paty3672&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
