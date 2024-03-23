@@ -1,4 +1,4 @@
-### <div align="left">I'm Patrícia, a full-time data analytic student 👨‍💻 working on improving my skills and eager to start a new career 🚀</div>  
+### <div align="left">I'm Patrícia, a full-time data analytics student 👨‍💻 working on improving my skills and eager to start a new career 🚀</div>  
   
 
 - 🔭 I’m currently working on improving my GitHub account and increasing my portfolio    
