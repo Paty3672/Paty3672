@@ -59,5 +59,8 @@
 
 
 
-## Github Stats  
-![patriciamgcosta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=patriciamgcosta&theme=default&hide_border=true)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patriciamgcosta&theme=default&hide_border=true" alt="patriciamgcosta's Streak">
+</p>
+
