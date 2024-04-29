@@ -21,7 +21,7 @@
 <br/>  
 
 <details> 
-<summary>📃Projects
+<summary>📃Projetos
 </summary>
 
   | Nome | Sumário |
