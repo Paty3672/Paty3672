@@ -10,9 +10,24 @@
 
 <br/>
 
+<div align="center">
+<a href="https://linkedin.com/in/patriciamgc" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height = "25"/>
+</a>
+<a href="https://leetcode.com/u/user0594tT/" target="_blank">
+<img src=https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black alt=linkedin style="margin-bottom: 5px;" height = "25"/>
+</a>
+</div>  
+<br/>  
+
 <details> 
-<summary>📃Projects</summary> 
-         A Computer Science Portal for Geeks 
+<summary>📃Projects
+</summary>
+
+  | Nome | Sumário |
+  | --- | --- |
+  | [Video Games Sales Evaluation](https://github.com/patriciamgcosta/video-games-selling-evalluation) | Análise dos jogos de video game mais vendidos no Japão, União Europeia e América do Norte
+  | [Taxi Travels Analysis](https://github.com/patriciamgcosta/taxi_travels_analysis) | Análise de comparaçào de desempenho entre diferentes companhias de táxi
 </details> 
 
 ## Linguagens, bibliotecas e ferramentas
@@ -40,18 +55,9 @@
 </a>
 </div>
 
-## Connect with me  
-<div align="left">
-<a href="https://linkedin.com/in/patriciamgc" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height = "25"/>
-</a>
-<a href="https://leetcode.com/u/user0594tT/" target="_blank">
-<img src=https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black alt=linkedin style="margin-bottom: 5px;" height = "25"/>
-</a>
-</div>  
-<br/>  
+
 
 
 
 ## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=patriciamgcosta&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+![patriciamgcosta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=patriciamgcosta&theme=default&hide_border=true) ![patriciamgcosta's Stats](https://github-readme-stats.vercel.app/api?username=patriciamgcosta&theme=default&show_icons=true&hide_border=true&count_private=true)
