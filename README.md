@@ -24,10 +24,10 @@
 <summary>📃Projetos
 </summary>
 
-  | Nome | Sumário |
-  | --- | --- |
-  | [Video Games Sales Evaluation](https://github.com/patriciamgcosta/video-games-selling-evalluation) | Análise dos jogos de video game mais vendidos no Japão, União Europeia e América do Norte
-  | [Taxi Travels Analysis](https://github.com/patriciamgcosta/taxi_travels_analysis) | Análise de comparaçào de desempenho entre diferentes companhias de táxi
+  | Nome | Sumário | Linguagem |
+  | --- | --- | --- |
+  | [Video Games Sales Evaluation](https://github.com/patriciamgcosta/video-games-selling-evalluation) | Análise dos jogos de video game mais vendidos no Japão, União Europeia e América do Norte | Jupyter Notebook - Python
+  | [Taxi Travels Analysis](https://github.com/patriciamgcosta/taxi_travels_analysis) | Análise de comparaçào de desempenho entre diferentes companhias de táxi | Jupyter Notebook - Python
 </details> 
 
 ## Linguagens, bibliotecas e ferramentas
