@@ -60,4 +60,4 @@
 
 
 ## Github Stats  
-![patriciamgcosta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=patriciamgcosta&theme=default&hide_border=true) ![patriciamgcosta's Stats](https://github-readme-stats.vercel.app/api?username=patriciamgcosta&theme=default&show_icons=true&hide_border=true&count_private=true)
+![patriciamgcosta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=patriciamgcosta&theme=default&hide_border=true)
